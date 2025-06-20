@@ -6,7 +6,7 @@
 
 | **Рівень** | **Варіант 1** | **Варіант 2** | **Варіант 3** |
 | :---: | --- | --- | --- |
-| **1** | [Рунічний Оберіг](../abilities/Rune%20Ward.md) | [Вивільнення Хаосу](../abilities/Unleash%20Chaos.md) | [Ходіння по Стінах](../abilities/Wall%20Walk.md) |
+| **1** | [Рунний Оберіг](../abilities/Rune%20Ward.md) | [Вивільнення Хаосу](../abilities/Unleash%20Chaos.md) | [Ходіння по Стінах](../abilities/Wall%20Walk.md) |
 | **2** | [Попелястий Хват](../abilities/Cinder%20Grasp.md) | [Летюче Око](../abilities/Floating%20Eye.md) | — |
 | **3** | [Контрзакляття](../abilities/Counterspell.md) | [Політ](../abilities/Flight.md) | — |
 | **4** | [Вимгнення](../abilities/Blink%20Out.md) | [Зберігаючий Розряд](../abilities/Preservation%20Blast.md) | — |
