@@ -1,7 +1,7 @@
-﻿# IMPROVED RAPIER
+﻿# ПОКРАЩЕНА РАПІРА
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d8+3 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Особливість:** ***Швидкий:*** Здійснюючи атаку, ви можете зазначити Стрес, щоб націлитися на ще одну істоту в межах досяжності.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

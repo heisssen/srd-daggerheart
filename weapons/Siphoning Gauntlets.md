@@ -1,7 +1,7 @@
-﻿# SIPHONING GAUNTLETS
+﻿# ВИСМОКТУЮЧІ РУКАВИЦІ
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d10+9 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Lifestealing:*** On a successful attack, roll a d6. On a result of 6, clear a Hit Point or clear a Stress.
+**Особливість:** ***Крадідьба життя:*** При успішній атаці киньте d6. При результаті 6, зніміть Пункт Здоров'я або зніміть Стрес.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

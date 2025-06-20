@@ -1,7 +1,7 @@
-﻿# CURVED DAGGER
+﻿# ВИГНУТИЙ КИНДЖАЛ
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Рукопашна; **Шкода:** d8+9 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Serrated:*** When you roll a 1 on a damage die, it deals 8 damage instead.
+**Особливість:** ***Зазубрений:*** Коли на кубику шкоди випадає 1, він завдає 8 шкоди замість цього.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

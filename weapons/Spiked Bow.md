@@ -1,7 +1,7 @@
-﻿# SPIKED BOW
+﻿# ШИПАСТИЙ ЛУК
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d6+7 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Далека; **Шкода:** d6+7 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Agility, Melee, d10+5.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Спритність, Рукопашна, d10+5.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

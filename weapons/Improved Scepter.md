@@ -1,7 +1,7 @@
-﻿# IMPROVED SCEPTER
+﻿# ПОКРАЩЕНИЙ СКІПЕТР
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** Two-Handed
+**Характеристика:** Харизма; **Дальність:** Далека; **Шкода:** d6+3 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8+3.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Харизма, Рукопашна, d8+3.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

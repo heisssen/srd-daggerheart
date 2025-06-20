@@ -1,7 +1,7 @@
-﻿# BRAVESHIELD
+﻿# ЩИТ ВІДВАГИ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d4+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Sheltering:*** When you mark an Armor Slot, it reduces damage for you and all allies within Melee range of you who took the same damage.
+**Особливість:** ***Прихисток:*** Коли ви зазначаєте Комірку Броні, це зменшує шкоду для вас та всіх союзників у Рукопашному радіусі, які зазнали тієї самої шкоди.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

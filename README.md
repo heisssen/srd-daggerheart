@@ -1,84 +1,82 @@
 # DAGGERHEART SRD
 
-***Welcome to DAGGERHEART,*** *a collaborative fantasy tabletop roleplaying game of incredible magic and heroic, heartfelt adventure.*
+***Вітаємо у світі DAGGERHEART,*** *настільної рольової гри у жанрі фентезі для спільної творчості, гри про неймовірну магію та героїчні, сповнені щирих почуттів пригоди.* 
 
-## SYSTEM REFERENCE DOCUMENT 1.0
+## ДОВІДКОВИЙ СИСТЕМНИЙ ДОКУМЕНТ 1.0
 
-**SRD Writer: Rob Hebert | Technical Editor: Shawn Banerjee | Layout: Matt Paquette & Co. | Producer: Madigan Hunt**
+**Автор SRD: Роб Геберт | Технічний редактор: Шон Банерджі | Верстка: Метт Пакетт і Ко. | Продюсер: Медіган Гант**
 
-This document, including the Witherwild Campaign Frame, is considered Public Game Content per the Darrington Press Community Gaming License. Please read the Darrington Press Community Gaming License before using this material.
+Цей документ, включно з Каркасом кампанії «Дикопустка», вважається Публічним Ігровим Вмістом згідно з Ліцензією спільноти на ігри від Darrington Press. Будь ласка, ознайомтеся з Ліцензією спільноти на ігри від Darrington Press перед використанням цього матеріалу.
 
-© 2025 Critical Role LLC. All rights reserved. For more information, please visit [www.darringtonpress.com/license](http://www.darringtonpress.com/license).
+© 2025 Critical Role LLC. Усі права захищені. Для отримання додаткової інформації, будь ласка, відвідайте [www.darringtonpress.com/license](http://www.darringtonpress.com/license).
 
-## CONTENTS
+## ЗМІСТ
 
-### INTRODUCTION
+### ВСТУП
 
-- [What Is This](contents/What%20Is%20This.md)
-- [The Basics](contents/The%20Basics.md)
+- [Що це таке](contents/What%20Is%20This.md) 
+- [Основи](contents/The%20Basics.md) 
 
-### STARTING A CAMPAIGN
+### ПОЧАТОК КАМПАНІЇ
 
-- [Session Zero](contents/Session%20Zero.md) *(currently missing from SRD 1.0)*
-- [Setting Creation](contents/Setting%20Creation.md) *(currently missing from SRD 1.0)*
+- [Нульова сесія](contents/Session%20Zero.md)  *(наразі відсутня в SRD 1.0)*
+- [Створення сеттінгу](contents/Setting%20Creation.md)  *(наразі відсутнє в SRD 1.0)*
 
-### [CHARACTER CREATION](contents/Character%20Creation.md)
+### [СТВОРЕННЯ ПЕРСОНАЖА](contents/Character%20Creation.md) 
 
-### CORE MATERIALS
+### ОСНОВНІ МАТЕРІАЛИ
 
-- [Domains](contents/Domains.md)
-- [Classes](contents/Classes.md)
-- [Ancestries](contents/Ancestries.md)
-- [Communities](contents/Communities.md)
+- [Домени](contents/Domains.md) 
+- [Класи](contents/Classes.md) 
+- [Походження](contents/Ancestries.md) 
+- [Спільноти](contents/Communities.md) 
 
-### CORE MECHANICS
+### ОСНОВНІ МЕХАНІКИ
 
-- [Flow of the Game](contents/Flow%20of%20the%20Game.md)
-- [Core Gameplay Loop](contents/Core%20Gameplay%20Loop.md)
-- [The Spotlight](contents/The%20Spotlight.md)
-- [Turn Order & Action Economy](contents/Turn%20Order%20and%20Action%20Economy.md)
-- [Making Moves & Taking Action](contents/Making%20Moves%20and%20Taking%20Action.md)
-- [Combat](contents/Combat.md)
-- [Stress](contents/Stress.md)
-- [Attacking](contents/Attacking.md)
-- [Maps, Range, and Movement](contents/Maps,%20Range,%20and%20Movement.md)
-- [Conditions](contents/Conditions.md)
-- [Downtime](contents/Downtime.md)
-- [Death](contents/Death.md)
-- [Additional Rules](contents/Additional%20Rules.md)
-- [Leveling Up](contents/Leveling%20Up.md)
-- [Multiclassing](contents/Multiclassing.md)
-- [Equipment](contents/Equipment.md)
-- [Weapons](contents/Weapons.md)
-- [Combat Wheelchair](contents/Combat%20Wheelchair.md)
-- [Armor](contents/Armor.md)
-- [Loot](contents/Loot.md)
-- [Consumables](contents/Consumables.md)
-- [Gold](contents/Gold.md)
+- [Плин гри](contents/Flow%20of%20the%20Game.md) 
+- [Базовий ігровий цикл](contents/Core%20Gameplay%20Loop.md)
+- [У центрі уваги](contents/The%20Spotlight.md) 
+- [Порядок ходів та економіка дій](contents/Turn%20Order%20and%20Action%20Economy.md) 
+- [Здійснення ходів та вчинення дій](contents/Making%20Moves%20and%20Taking%20Action.md) 
+- [Бій](contents/Combat.md) 
+- [Стрес](contents/Stress.md) 
+- [Атака](contents/Attacking.md) 
+- [Карти, дальність та рух](contents/Maps,%20Range,%20and%20Movement.md) 
+- [Стани](contents/Conditions.md) 
+- [Простій](contents/Downtime.md) 
+- [Смерть](contents/Death.md) 
+- [Додаткові правила](contents/Additional%20Rules.md) 
+- [Підвищення рівня](contents/Leveling%20Up.md) 
+- [Мультикласування](contents/Multiclassing.md) 
+- [Спорядження](contents/Equipment.md)
+- [Зброя](contents/Weapons.md)
+- [Бойовий візок](contents/Combat%20Wheelchair.md)
+- [Обладунки](contents/Armor.md)
+- [Здобич](contents/Loot.md)
+- [Витратні матеріали](contents/Consumables.md)
+- [Золото](contents/Gold.md)
 
-### RUNNING AN ADVENTURE
+### ПРОВЕДЕННЯ ПРИГОД
 
-- [GM Guidance](contents/GM%20Guidance.md)
-- [Core GM Mechanics](contents/Core%20GM%20Mechanics.md)
-- [Adversaries](contents/Adversaries.md)
-- [Environments](contents/Environments.md)
-- [Additional GM Guidance](contents/Additional%20GM%20Guidance.md)
-- [Campaign Frames](contents/Campaign%20Frames.md)
+- [Вказівки для МГ](contents/GM%20Guidance.md) 
+- [Основні механіки Майстра Гри](contents/Core%20GM%20Mechanics.md) 
+- [Противники](contents/Adversaries.md) 
+- [Оточення](contents/Environments.md) 
+- [Додаткові вказівки для МГ](contents/Additional%20GM%20Guidance.md)
+- [Каркаси кампаній](contents/Campaign%20Frames.md) 
 
-### APPENDIX
+### ДОДАТОК
 
-- [Domain Card Reference](contents/Domain%20Card%20Reference.md)
-
----
-
-## REPOSITORY CONTENT LICENSE
-
-This repository includes materials from the Daggerheart System Reference Document 1.0, © Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com/. There are minor modifications to format and structure. No previous modifications by others.
-
-Daggerheart and all related marks are trademarks of Critical Role, LLC and used with permission. This project is not affiliated with, endorsed, or sponsored by Critical Role or Darrington Press.
-
-For full license terms, see: https://www.daggerheart.com/
+- [Довідник по картах доменів](contents/Domain%20Card%20Reference.md)
 
 ---
 
-[https://seansbox.github.io/daggerheart-srd/](https://seansbox.github.io/daggerheart-srd/)
+## ЛІЦЕНЗІЯ НА ВМІСТ РЕПОЗИТОРІЮ
+
+Цей репозиторій містить матеріали з Довідкового Системного Документа Daggerheart 1.0, © Critical Role, LLC. на умовах ліцензії Darrington Press Community Gaming (DPCGL). Більше інформації можна знайти на https://www.daggerheart.com/. Існують незначні зміни у форматі та структурі. Попередні модифікації іншими особами відсутні.
+
+Daggerheart та всі пов'язані з ним знаки є товарними знаками Critical Role, LLC і використовуються з дозволу. Цей проект не є афілійованим, схваленим або спонсорованим Critical Role або Darrington Press.
+
+Для ознайомлення з повними умовами ліцензії дивіться: https://www.daggerheart.com/
+
+---

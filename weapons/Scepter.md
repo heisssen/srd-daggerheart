@@ -1,7 +1,7 @@
-﻿# SCEPTER
+﻿# СКІПЕТР
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6 mag; **Burden:** Two-Handed
+**Характеристика:** Харизма; **Дальність:** Далека; **Шкода:** d6 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Харизма, Рукопашна, d8.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

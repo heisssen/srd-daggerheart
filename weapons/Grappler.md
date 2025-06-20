@@ -1,7 +1,7 @@
-﻿# GRAPPLER
+﻿# ХАПАЧ
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d6 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Близька; **Шкода:** d6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Hooked:*** On a successful attack, you can pull the target into Melee range.
+**Особливість:** ***Зачеплений:*** При успішній атаці ви можете притягнути ціль у Рукопашний радіус.
 
-*Secondary Weapon - Tier 1*
+*Допоміжна зброя - Тир 1*

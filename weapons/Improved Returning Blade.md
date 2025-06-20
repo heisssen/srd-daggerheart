@@ -1,7 +1,7 @@
-﻿# IMPROVED RETURNING BLADE
+﻿# ПОКРАЩЕНЕ ЛЕЗО, ЩО ПОВЕРТАЄТЬСЯ
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+3 mag; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Близька; **Шкода:** d8+3 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Returning:*** When this weapon is thrown within its range, it appears in your hand immediately after the attack.
+**Особливість:** ***Повернення:*** Коли цю зброю кинуто в межах її дальності, вона з'являється у вашій руці одразу після атаки.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

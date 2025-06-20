@@ -1,23 +1,23 @@
-﻿# WARDEN OF RENEWAL
+﻿# ХРАНИТЕЛЬ ОНОВЛЕННЯ
 
-Play the Warden of Renewal if you want to use powerful magic to heal your party.
+Обирайте Хранителя Оновлення, якщо хочете послуговуватися могутньою магією для зцілення вашого загону.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Instinct
+Інстинкт 
 
-## FOUNDATION FEATURES
+## ОСОБЛИВОСТІ ОСНОВИ
 
-***Clarity of Nature:*** Once per long rest, you can create a space of natural serenity within Close range. When you spend a few minutes resting within the space, clear Stress equal to your Instinct, distributed as you choose between you and your allies.
+***Ясність Природи:*** Раз на тривалий відпочинок, ви можете створити в Близькому радіусі острівець природного спокою. Провівши кілька хвилин відпочинку в цьому місці, зніміть Стрес у кількості, що дорівнює вашому Інстинкту, розподіливши його на власний розсуд між собою та союзниками.
 
-***Regeneration:*** Touch a creature and spend 3 Hope. That creature clears 1d4 Hit Points.
+***Регенерація:*** Торкніться істоти та витратьте 3 Надії. Ця істота відновлює 1d4 Пунктів Здоров'я.
 
-## SPECIALIZATION FEATURES
+## ОСОБЛИВОСТІ СПЕЦІАЛІЗАЦІЇ
 
-***Regenerative Reach:*** You can target creatures within Very Close range with your “Regeneration” feature.
+***Регенеративне Простягання:*** Ви можете застосовувати свою особливість «Регенерація» до істот у Дуже Близькому радіусі.
 
-***Warden’s Protection:*** Once per long rest, spend 2 Hope to clear 2 Hit Points on 1d4 allies within Close range.
+***Захист Хранителя:*** Раз на тривалий відпочинок, витратьте 2 Надії, щоб відновити по 2 Пункти Здоров'я 1d4 союзникам у Близькому радіусі.
 
-## MASTERY FEATURE
+## ОСОБЛИВІСТЬ МАЙСТЕРНОСТІ
 
-***Defender:*** Your animal transformation embodies a healing guardian spirit. When you’re in Beastform and an ally within Close range marks 2 or more Hit Points, you can mark a Stress to reduce the number of Hit Points they mark by 1.
+***Оборонець:*** Ваше звірине перевтілення втілює дух зцілювального покровителя. Коли ви у Звіроформі, і союзник у Близькому радіусі зазначає 2 або більше Пунктів Здоров'я, ви можете зазначити Стрес, щоб зменшити кількість Пунктів Здоров'я, які він зазначає, на 1.

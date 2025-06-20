@@ -1,7 +1,7 @@
-﻿# LEGENDARY BROADSWORD
+﻿# ЛЕГЕНДАРНИЙ ПАЛАШ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d8+9 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

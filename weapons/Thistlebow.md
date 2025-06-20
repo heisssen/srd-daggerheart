@@ -1,7 +1,7 @@
-﻿# THISTLEBOW
+﻿# ЛУК З БУДЯКА
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d6+13 mag; **Burden:** Two-Handed
+**Характеристика:** Інстинкт; **Дальність:** Далека; **Шкода:** d6+13 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

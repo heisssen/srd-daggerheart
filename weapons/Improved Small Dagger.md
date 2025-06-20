@@ -1,7 +1,7 @@
-﻿# IMPROVED SMALL DAGGER
+﻿# ПОКРАЩЕНИЙ МАЛИЙ КИНДЖАЛ
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+2 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Рукопашна; **Шкода:** d8+2 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Paired:*** +3 to primary weapon damage to targets within Melee range
+**Особливість:** ***Парний:*** +3 до шкоди основної зброї по цілях у Рукопашному радіусі.
 
-*Secondary Weapon - Tier 2*
+*Допоміжна зброя - Тир 2*

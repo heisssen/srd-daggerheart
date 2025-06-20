@@ -1,7 +1,7 @@
-﻿# IMPROVED SHORTSTAFF
+﻿# ПОКРАЩЕНИЙ КОРОТКИЙ ПОСОХ
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+4 mag; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Близька; **Шкода:** d8+4 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

@@ -1,7 +1,7 @@
-﻿# TALON BLADES
+﻿# ЛЕЗА-КІГТІ
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Близька; **Шкода:** d10+7 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+**Особливість:** ***Жорстокий:*** Коли на кубику шкоди випадає максимальне значення, киньте додатковий кубик шкоди.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

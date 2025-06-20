@@ -1,25 +1,25 @@
-﻿# SCHOOL OF WAR
+﻿# ШКОЛА ВІЙНИ
 
-Play the School of War if you want to utilize trained magic for violence.
+Обирайте Школу Війни, якщо бажаєте застосовувати опановану магію для насильства.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Knowledge
+Знання
 
-## FOUNDATION FEATURES
+## ОСОБЛИВОСТІ ОСНОВИ
 
-***Battlemage:*** You’ve focused your studies on becoming an unconquerable force on the battlefield. Gain an additional Hit Point slot.
+***Бойовий Маг:*** Ви присвятили свої дослідження тому, аби стати нездоланною силою на полі бою. Отримайте додаткову комірку Пункту Здоров'я.
 
-***Face Your Fear:*** When you succeed with Fear on an attack roll, you deal an extra 1d10 magic damage.
+***Зустрінь Свій Страх:*** Коли ви успішно робите кидок атаки зі Страхом, ви завдаєте додатково 1d10 магічної шкоди.
 
-## SPECIALIZATION FEATURES
+## ОСОБЛИВОСТІ СПЕЦІАЛІЗАЦІЇ
 
-***Conjure Shield:*** You can maintain a protective barrier of magic. While you have at least 2 Hope, you add your Proficiency to your Evasion.
+***Створення Щита:*** Ви здатні підтримувати захисний магічний бар'єр. Доки у вас є щонайменше 2 Надії, ви додаєте своє Володіння до вашого Ухилення.
 
-***Fueled by Fear:*** The extra magic damage from your “Face Your Fear” feature increases to 2d10.
+***Живлений Страхом:*** Додаткова магічна шкода від вашої особливості «Зустрінь Свій Страх» зростає до 2d10.
 
-## MASTERY FEATURES
+## ОСОБЛИВОСТІ МАЙСТЕРНОСТІ
 
-***Thrive in Chaos:*** When you succeed on an attack, you can mark a Stress after rolling damage to force the target to mark an additional Hit Point.
+***Процвітати в Хаосі:*** Успішно атакуючи, ви можете зазначити Стрес після кидка шкоди, щоб змусити ціль зазначити додатковий Пункт Здоров'я.
 
-***Have No Fear:*** The extra magic damage from your “Face Your Fear” feature increases to 3d10.
+***Не Знай Страху:*** Додаткова магічна шкода від вашої особливості «Зустрінь Свій Страх» зростає до 3d10.

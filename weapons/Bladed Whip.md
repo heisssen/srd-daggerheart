@@ -1,7 +1,7 @@
-﻿# BLADED WHIP
+﻿# БАТІГ З ЛЕЗАМИ
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Близька; **Шкода:** d8+3 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Особливість:** ***Швидкий:*** Здійснюючи атаку, ви можете зазначити Стрес, щоб націлитися на ще одну істоту в межах досяжності.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

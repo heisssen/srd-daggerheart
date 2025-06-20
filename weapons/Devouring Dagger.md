@@ -1,7 +1,7 @@
-﻿# DEVOURING DAGGER
+﻿# ПОЖИРАЮЧИЙ КИНДЖАЛ
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Рукопашна; **Шкода:** d8+4 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Scary:*** On a successful attack, the target must mark a Stress.
+**Особливість:** ***Лякаючий:*** При успішній атаці ціль мусить зазначити Стрес.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

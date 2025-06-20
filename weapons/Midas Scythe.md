@@ -1,7 +1,7 @@
-﻿# MIDAS SCYTHE
+﻿# КОСА МІДАСА
 
-**Trait:** Knowledge; **Range:** Melee; **Damage:** d10+9 mag; **Burden:** Two-Handed
+**Характеристика:** Знання; **Дальність:** Рукопашна; **Шкода:** d10+9 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Greedy:*** Spend a handful of gold to gain a +1 bonus to your Proficiency on a damage roll.
+**Особливість:** ***Жадібний:*** Витратьте жменю золота, щоб отримати бонус +1 до вашого Володіння на кидку шкоди.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

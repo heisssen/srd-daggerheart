@@ -1,25 +1,25 @@
-﻿# SCHOOL OF KNOWLEDGE
+﻿# ШКОЛА ЗНАНЬ
 
-Play the School of Knowledge if you want a keen understanding of the world around you.
+Обирайте Школу Знань, якщо прагнете до глибокого розуміння навколишнього світу.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Knowledge
+Знання
 
-## FOUNDATION FEATURES
+## ОСОБЛИВОСТІ ОСНОВИ
 
-***Prepared:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Підготовлений:*** Візьміть додаткову карту домену вашого рівня або нижче з домену, до якого маєте доступ.
 
-***Adept:*** When you Utilize an Experience, you can mark a Stress instead of spending a Hope. If you do, double your Experience modifier for that roll.
+***Обізнаний:*** Використовуючи Досвід, ви можете зазначити Стрес замість того, щоб витрачати Надію. Якщо ви так робите, подвойте модифікатор вашого Досвіду для цього кидка.
 
-## SPECIALIZATION FEATURES
+## ОСОБЛИВОСТІ СПЕЦІАЛІЗАЦІЇ
 
-***Accomplished:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Досвідчений:*** Візьміть додаткову карту домену вашого рівня або нижче з домену, до якого маєте доступ.
 
-***Perfect Recall:*** Once per rest, when you recall a domain card in your vault, you can reduce its Recall Cost by 1.
+***Бездоганна Пам'ять:*** Раз на відпочинок, коли ви відкликаєте карту домену зі свого сховища, ви можете зменшити її Вартість Відкликання на 1.
 
-## MASTERY FEATURES
+## ОСОБЛИВОСТІ МАЙСТЕРНОСТІ
 
-***Brilliant:*** Take an additional domain card of your level or lower from a domain you have access to.
+***Блискучий:*** Візьміть додаткову карту домену вашого рівня або нижче з домену, до якого маєте доступ.
 
-***Honed Expertise:*** When you use an Experience, roll a d6. On a result of 5 or higher, you can use it without spending Hope.
+***Відточена Експертиза:*** Використовуючи Досвід, киньте d6. При результаті 5 або вище, ви можете використати його, не витрачаючи Надію.

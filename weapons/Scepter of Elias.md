@@ -1,7 +1,7 @@
-﻿# SCEPTER OF ELIAS
+﻿# СКІПЕТР ЕЛІАСА
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+3 mag; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Далека; **Шкода:** d6+3 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Invigorating:*** On a successful attack, roll a d4. On a result of 4, clear a Stress.
+**Особливість:** ***Підбадьорливий:*** При успішній атаці киньте d4. При результаті 4, зніміть Стрес.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

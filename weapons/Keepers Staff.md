@@ -1,7 +1,7 @@
-﻿# KEEPER’S STAFF
+﻿# ПОСОХ ХРАНИТЕЛЯ
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**Характеристика:** Знання; **Дальність:** Далека; **Шкода:** d6+4 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

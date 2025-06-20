@@ -1,7 +1,7 @@
-﻿# DOUBLE FLAIL
+﻿# ПОДВІЙНИЙ ЦІП
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Близька; **Шкода:** d10+8 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Могутній:*** При успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

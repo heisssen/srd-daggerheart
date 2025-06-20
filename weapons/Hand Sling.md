@@ -1,7 +1,7 @@
-﻿# HAND SLING
+﻿# РУЧНА ПРАЩА
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Близька; **Шкода:** d6+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Finesse, Close, d8+4.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Вправність, Близька, d8+4.
 
-*Secondary Weapon - Tier 3*
+*Допоміжна зброя - Тир 3*

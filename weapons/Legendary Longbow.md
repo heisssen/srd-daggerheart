@@ -1,7 +1,7 @@
-﻿# LEGENDARY LONGBOW
+﻿# ЛЕГЕНДАРНИЙ ДОВГИЙ ЛУК
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+12 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Далека; **Шкода:** d8+12 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

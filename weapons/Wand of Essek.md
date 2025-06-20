@@ -1,7 +1,7 @@
-﻿# WAND OF ESSEK
+﻿# ПАЛИЧКА ЕССЕКА
 
-**Trait:** Knowledge; **Range:** Far; **Damage:** d8+13 mag; **Burden:** One-Handed
+**Характеристика:** Знання; **Дальність:** Далека; **Шкода:** d8+13 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Timebending:*** You can choose the target of your attack after making your attack roll.
+**Особливість:** ***Викривлення часу:*** Ви можете обрати ціль вашої атаки після здійснення кидка атаки.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

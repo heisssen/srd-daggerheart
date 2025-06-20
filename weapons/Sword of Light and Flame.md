@@ -1,7 +1,7 @@
-﻿# SWORD OF LIGHT AND FLAME
+﻿# МЕЧ СВІТЛА ТА ПОЛУМ'Я
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+11 mag; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+11 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Hot:*** This weapon cuts through solid material.
+**Особливість:** ***Гарячий:*** Ця зброя розрізає твердий матеріал.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

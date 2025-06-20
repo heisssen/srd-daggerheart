@@ -1,7 +1,7 @@
-﻿# EGO BLADE
+﻿# ЛЕЗО ЕГО
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d12+4 mag; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d12+4 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Pompous:*** You must have a Presence of 0 or lower to use this weapon.
+**Особливість:** ***Пихатий:*** Ви повинні мати Харизму 0 або нижче, щоб використовувати цю зброю.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

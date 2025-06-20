@@ -1,7 +1,7 @@
-﻿# LABRYS AXE
+﻿# ЛАБРИС
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+7 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Protective:*** +1 to Armor Score
+**Особливість:** ***Захисний:*** +1 до Показника Броні.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

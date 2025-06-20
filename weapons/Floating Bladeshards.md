@@ -1,7 +1,7 @@
-﻿# FLOATING BLADESHARDS
+﻿# ЛІТАЮЧІ УЛАМКИ ЛЕЗ
 
-**Trait:** Instinct; **Range:** Close; **Damage:** d8+9 mag; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Близька; **Шкода:** d8+9 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Могутній:*** При успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

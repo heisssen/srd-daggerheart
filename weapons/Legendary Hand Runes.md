@@ -1,7 +1,7 @@
-﻿# LEGENDARY HAND RUNES
+﻿# ЛЕГЕНДАРНІ РУНІЧНІ РУКАВИЦІ
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+9 mag; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Дуже Близька; **Шкода:** d10+9 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

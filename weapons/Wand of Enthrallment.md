@@ -1,7 +1,7 @@
-﻿# WAND OF ENTHRALLMENT
+﻿# ПАЛИЧКА ЗАЧАРУВАННЯ
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+4 mag; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Далека; **Шкода:** d6+4 маг.; **Обтяження:** Одноручна
 
-**Feature:** ***Persuasive:*** Before you make a Presence Roll, you can mark a Stress to gain a +2 bonus to the result.
+**Особливість:** ***Переконливий:*** Перш ніж зробити Кидок Харизми, ви можете зазначити Стрес, щоб отримати бонус +2 до результату.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

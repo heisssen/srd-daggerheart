@@ -1,7 +1,7 @@
-﻿# PRIMER SHARD
+﻿# УЛАМОК-ДЕТОНАТОР
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d4 phy; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Дуже Близька; **Шкода:** d4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Locked On:*** On a successful attack, your next attack against the same target with your primary weapon automatically succeeds.
+**Особливість:** ***Фіксація:*** При успішній атаці ваша наступна атака по тій самій цілі основною зброєю автоматично стає успішною.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

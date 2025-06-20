@@ -1,7 +1,7 @@
-﻿# IMPROVED TOWER SHIELD
+﻿# ПОКРАЩЕНИЙ БАШТОВИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d6+2 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Barrier:*** +3 to Armor Score; -1 to Evasion
+**Особливість:** ***Бар'єр:*** +3 до Показника Броні; -1 до Ухилення.
 
-*Secondary Weapon - Tier 2*
+*Допоміжна зброя - Тир 2*

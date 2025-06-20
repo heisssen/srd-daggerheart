@@ -1,24 +1,24 @@
-﻿# WINGED SENTINEL
+﻿# КРИЛАТИЙ ВАРТОВИЙ
 
-Play the Winged Sentinel if you want to take flight and strike crushing blows from the sky.
+[cite_start]Обирайте Крилатого Вартового, якщо бажаєте ширяти в небесах та завдавати нищівних ударів з висоти. 
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Strength
+[cite_start]Сила 
 
-## FOUNDATION FEATURE
+## ОСОБЛИВІСТЬ ОСНОВИ
 
-***Wings of Light:*** You can fly. While flying, you can do the following:
+[cite_start]***Крила Світла:*** Ви вмієте літати.  Під час польоту ви можете робити наступне:
 
-- Mark a Stress to pick up and carry another willing creature approximately your size or smaller.
-- Spend a Hope to deal an extra 1d8 damage on a successful attack.
+- Зазначити Стрес, щоб підхопити та нести іншу згодну на це істоту, приблизно вашого розміру або меншу. 
+- Витратити Надію, щоб завдати додатково 1d8 шкоди при успішній атаці. 
 
-## SPECIALIZATION FEATURE
+## ОСОБЛИВІСТЬ СПЕЦІАЛІЗАЦІЇ
 
-***Ethereal Visage:*** Your supernatural visage strikes awe and fear. While flying, you have advantage on Presence Rolls. When you succeed with Hope on a Presence Roll, you can remove a Fear from the GM’s Fear pool instead of gaining Hope.
+***Ефірний Лик:*** Ваш надприродний вигляд вселяє благоговіння та страх.  Під час польоту ви маєте перевагу на Кидки Харизми.  Коли ви успішно робите Кидок Харизми з Надією, ви можете забрати один Страх із запасу МГ замість того, щоб отримати Надію. 
 
-## MASTERY FEATURES
+## ОСОБЛИВОСТІ МАЙСТЕРНОСТІ
 
-***Ascendant:*** Gain a permanent +4 bonus to your Severe damage threshold.
+***Вознесений:*** Отримайте постійний бонус +4 до вашого порогу Тяжкої шкоди. 
 
-***Power of the Gods:*** While flying, you deal an extra 1d12 damage instead of 1d8 from your “Wings of Light” feature.
+***Сила Богів:*** Під час польоту ви завдаєте додатково 1d12 шкоди замість 1d8 від вашої особливості «Крила Світла».

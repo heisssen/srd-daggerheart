@@ -1,7 +1,7 @@
-﻿# LEGENDARY GLOWING RINGS
+﻿# ЛЕГЕНДАРНІ СЯЮЧІ КІЛЬЦЯ
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+11 mag; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Близька; **Шкода:** d10+11 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

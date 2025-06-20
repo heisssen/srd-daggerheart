@@ -1,7 +1,7 @@
-﻿# IMPROVED HAND RUNES
+﻿# ПОКРАЩЕНІ РУНІЧНІ РУКАВИЦІ
 
-**Trait:** Instinct; **Range:** Very Close; **Damage:** d10+3 mag; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Дуже Близька; **Шкода:** d10+3 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

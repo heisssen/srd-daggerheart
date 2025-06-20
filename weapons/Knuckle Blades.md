@@ -1,7 +1,7 @@
-﻿# KNUCKLE BLADES
+﻿# КЛИНКОВИЙ КАСТЕТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+**Особливість:** ***Жорстокий:*** Коли на кубику шкоди випадає максимальне значення, киньте додатковий кубик шкоди.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

@@ -1,7 +1,7 @@
-﻿# ADVANCED SPEAR
+﻿# МАЙСТЕРНИЙ СПИС
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d10+8 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Близька; **Шкода:** d10+8 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздка:*** -1 до Вправності
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

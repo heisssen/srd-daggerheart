@@ -1,7 +1,7 @@
-﻿# DUAL-ENDED SWORD
+﻿# ДВОСТОРОННІЙ МЕЧ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d10+9 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Особливість:** ***Швидкий:*** Здійснюючи атаку, ви можете зазначити Стрес, щоб націлитися на ще одну істоту в межах досяжності.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

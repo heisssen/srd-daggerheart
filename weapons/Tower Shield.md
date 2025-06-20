@@ -1,7 +1,7 @@
-﻿# TOWER SHIELD
+﻿# ЛУК З БУДЯКА
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6 phy; **Burden:** One-Handed
+**Характеристика:** Інстинкт; **Дальність:** Далека; **Шкода:** d6+13 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Barrier:*** +2 to Armor Score; -1 to Evasion
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Secondary Weapon - Tier 1*
+*Основна зброя - Тир 4*

@@ -1,7 +1,7 @@
-﻿# FINEHAIR BOW
+﻿# ЛУК З ТОНКОЇ ТЯТИВИ
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d6+5 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Далека; **Шкода:** d6+5 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

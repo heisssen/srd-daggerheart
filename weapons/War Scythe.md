@@ -1,7 +1,7 @@
-﻿# WAR SCYTHE
+﻿# БОЙОВА КОСА
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+5 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Близька; **Шкода:** d8+5 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

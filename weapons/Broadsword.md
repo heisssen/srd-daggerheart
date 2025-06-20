@@ -1,7 +1,7 @@
-﻿# BROADSWORD
+﻿# ПАЛАШ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d8 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

@@ -1,7 +1,7 @@
-﻿# GREATSTAFF
+﻿# ВЕЛИКИЙ ПОСОХ
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6 mag; **Burden:** Two-Handed
+**Характеристика:** Знання; **Дальність:** Дуже Далека; **Шкода:** d6 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Могутній:*** При успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

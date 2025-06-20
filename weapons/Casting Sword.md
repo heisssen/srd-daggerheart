@@ -1,7 +1,7 @@
-﻿# CASTING SWORD
+﻿# ЧАКЛУНСЬКИЙ МЕЧ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+4 mag; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+4 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Knowledge, Far, d6+3.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Знання, Далека, d6+3.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

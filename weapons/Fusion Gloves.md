@@ -1,7 +1,7 @@
-﻿# FUSION GLOVES
+﻿# РУКАВИЦІ СИНТЕЗУ
 
-**Trait:** Knowledge; **Range:** Very Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Характеристика:** Знання; **Дальність:** Дуже Далека; **Шкода:** d6+9 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Bonded:*** Gain a bonus to your damage rolls equal to your level.
+**Особливість:** ***Зв'язаний:*** Отримайте бонус до кидків шкоди, що дорівнює вашому рівню.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

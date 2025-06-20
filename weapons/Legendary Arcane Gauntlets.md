@@ -1,7 +1,7 @@
-﻿# LEGENDARY ARCANE GAUNTLETS
+﻿# ЛЕГЕНДАРНІ АРКАННІ РУКАВИЦІ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+12 mag; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+12 маг.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

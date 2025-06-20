@@ -1,7 +1,7 @@
-﻿# FLICKERFLY BLADE
+﻿# ЛЕЗО МЕРЕХТЛИВОЇ МОШКИ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+5 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d8+5 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Sharpening:*** Gain a bonus to your damage rolls equal to your Agility.
+**Особливість:** ***Заточування:*** Отримайте бонус до кидків шкоди, що дорівнює вашій Спритності.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

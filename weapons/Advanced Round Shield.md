@@ -1,7 +1,7 @@
-﻿# ADVANCED ROUND SHIELD
+﻿# МАЙСТЕРНИЙ КРУГЛИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d4+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Protective:*** +3 to Armor Score
+**Особливість:** ***Захисний:*** +3 до Показника Броні
 
-*Secondary Weapon - Tier 3*
+*Допоміжна зброя - Тир 3*

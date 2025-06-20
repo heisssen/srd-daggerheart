@@ -1,7 +1,7 @@
-﻿# HAMMER OF EXOTA
+﻿# МОЛОТ ЕКЗОТИ
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d8+6 mag; **Burden:** Two-Handed
+**Характеристика:** Інстинкт; **Дальність:** Рукопашна; **Шкода:** d8+6 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Eruptive:*** On a successful attack against a target within Melee range, all other adversaries within Very Close range must succeed on a reaction roll (14) or take half damage.
+**Особливість:** ***Вибуховий:*** При успішній атаці проти цілі в Рукопашному радіусі, всі інші супротивники в Дуже Близькому радіусі повинні успішно здійснити кидок реакції (14) або отримають половину шкоди.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

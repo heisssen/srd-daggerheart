@@ -1,7 +1,7 @@
-﻿# IMPROVED SPEAR
+﻿# ПОКРАЩЕНИЙ СПИС
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Близька; **Шкода:** d10+5 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

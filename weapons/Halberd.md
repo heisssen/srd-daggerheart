@@ -1,7 +1,7 @@
-﻿# HALBERD
+﻿# АЛЕБАРДА
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+2 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Дуже Близька; **Шкода:** d10+2 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

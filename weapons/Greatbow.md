@@ -1,7 +1,7 @@
-﻿# GREATBOW
+﻿# ВЕЛИКИЙ ЛУК
 
-**Trait:** Strength; **Range:** Far; **Damage:** d6+6 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Далека; **Шкода:** d6+6 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Могутній:*** При успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

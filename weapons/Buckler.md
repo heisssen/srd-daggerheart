@@ -1,7 +1,7 @@
-﻿# BUCKLER
+﻿# БАКЛЕР
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d4+4 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d4+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Deflecting:*** When you are attacked, you can mark an Armor Slot to gain a bonus to your Evasion equal to your Armor Score against the attack.
+**Особливість:** ***Відбиваючий:*** Коли вас атакують, ви можете зазначити Комірку Броні, щоб отримати бонус до вашого Ухилення проти цієї атаки, що дорівнює вашому Показнику Броні.
 
-*Secondary Weapon - Tier 3*
+*Допоміжна зброя - Тир 3*

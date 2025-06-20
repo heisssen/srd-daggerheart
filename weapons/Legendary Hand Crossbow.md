@@ -1,7 +1,7 @@
-﻿# LEGENDARY HAND CROSSBOW
+﻿# ЛЕГЕНДАРНИЙ РУЧНИЙ АРБАЛЕТ
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+7 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Далека; **Шкода:** d6+7 фіз.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

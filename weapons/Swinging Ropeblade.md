@@ -1,7 +1,7 @@
-﻿# SWINGING ROPEBLADE
+﻿# РОЗГОЙДУВАНИЙ МЕЧ-МОТУЗКА
 
-**Trait:** Presence; **Range:** Close; **Damage:** d8+9 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Близька; **Шкода:** d8+9 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Grappling:*** On a successful attack, you can spend a Hope to Restrain the target or pull them into Melee range with you.
+**Особливість:** ***Захоплення:*** При успішній атаці ви можете витратити Надію, щоб Знерухомити ціль або притягнути її в Рукопашний радіус до себе.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

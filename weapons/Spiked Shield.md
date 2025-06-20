@@ -1,7 +1,7 @@
-﻿# SPIKED SHIELD
+﻿# ШИПАСТИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d6+2 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Double Duty:*** +1 to Armor Score; +1 to primary weapon damage within Melee range
+**Особливість:** ***Подвійна функція:*** +1 до Показника Броні; +1 до шкоди основної зброї в Рукопашному радіусі.
 
-*Secondary Weapon - Tier 2*
+*Допоміжна зброя - Тир 2*

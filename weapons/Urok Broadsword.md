@@ -1,7 +1,7 @@
-﻿# UROK BROADSWORD
+﻿# ПАЛАШ УРОКА
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Рукопашна; **Шкода:** d8+3 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Deadly:*** When you deal Severe damage, the target must mark an additional HP.
+**Особливість:** ***Смертоносний:*** Коли ви завдаєте Тяжкої шкоди, ціль повинна зазначити додатковий ПЗ.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

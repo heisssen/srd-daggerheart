@@ -1,7 +1,7 @@
-﻿# ADVANCED WHIP
+﻿# ПОКРАЩЕНИЙ БАТІГ
 
-**Trait:** Presence; **Range:** Very Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Дуже Близька; **Шкода:** d6+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Startling:*** Mark a Stress to crack the whip and force all adversaries within Melee range back to Close range.
+**Особливість:** ***Приголомшливий:*** Зазначте Стрес, щоб ляснути батогом і змусити всіх супротивників у Рукопашному радіусі відступити на Близьку відстань.
 
-*Secondary Weapon - Tier 3*
+*Допоміжна зброя - Тир 3*

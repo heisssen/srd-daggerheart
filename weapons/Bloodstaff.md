@@ -1,7 +1,7 @@
-﻿# BLOODSTAFF
+﻿# КРИВАВИЙ ПОСОХ
 
-**Trait:** Instinct; **Range:** Far; **Damage:** d20+7 mag; **Burden:** Two-Handed
+**Характеристика:** Інстинкт; **Дальність:** Далека; **Шкода:** d20+7 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Painful:*** Each time you make a successful attack, you must mark a Stress.
+**Особливість:** ***Болісний:*** Щоразу, як ви здійснюєте успішну атаку, ви мусите зазначити Стрес.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

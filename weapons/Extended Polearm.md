@@ -1,7 +1,7 @@
-﻿# EXTENDED POLEARM
+﻿# ПОДОВЖЕНА ДРЕВКОВА ЗБРОЯ
 
-**Trait:** Finesse; **Range:** Very Close; **Damage:** d8+10 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Близька; **Шкода:** d8+10 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Long:*** This weapon’s attack targets all adversaries in a line within range.
+**Особливість:** ***Довгий:*** Атака цієї зброї націлена на всіх супротивників на лінії в межах досяжності.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

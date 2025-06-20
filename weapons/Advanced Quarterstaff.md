@@ -1,7 +1,7 @@
-﻿# ADVANCED QUARTERSTAFF
+﻿# МАЙСТЕРНИЙ БОЙОВИЙ ПОСОХ
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+9 phy; **Burden:** Two-Handed
+**Характеристика:** Інстинкт; **Дальність:** Рукопашна; **Шкода:** d10+9 фіз.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

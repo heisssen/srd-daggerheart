@@ -1,7 +1,7 @@
-﻿# GREATSWORD
+﻿# ДВОРУЧНИЙ МЕЧ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+3 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+3 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Massive:*** -1 to Evasion; on a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Масивний:*** -1 до Ухилення; при успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

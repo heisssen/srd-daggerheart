@@ -1,7 +1,7 @@
-﻿# LEGENDARY SHORTSWORD
+﻿# ЛЕГЕНДАРНИЙ КОРОТКИЙ МЕЧ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d8+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Paired:*** +5 to primary weapon damage to targets within Melee range
+**Особливість:** ***Парний:*** +5 до шкоди основної зброї по цілях у Рукопашному радіусі.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

@@ -1,7 +1,7 @@
-﻿# IMPROVED BROADSWORD
+﻿# ПОКРАЩЕНИЙ ПАЛАШ
 
-**Trait:** Agility; **Range:** Melee; **Damage:** d8+3 phy; **Burden:** One-Handed
+**Характеристика:** Спритність; **Дальність:** Рукопашна; **Шкода:** d8+3 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Reliable:*** +1 to attack rolls
+**Особливість:** ***Надійний:*** +1 до кидків атаки.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

@@ -1,7 +1,7 @@
-﻿# LEGENDARY TOWER SHIELD
+﻿# ЛЕГЕНДАРНИЙ БАШТОВИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+6 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d6+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Barrier:*** +5 to Armor Score; –1 to Evasion.
+**Особливість:** ***Бар'єр:*** +5 до Показника Броні; –1 до Ухилення.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

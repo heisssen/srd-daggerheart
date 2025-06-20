@@ -1,7 +1,7 @@
-﻿# IMPROVED HALBERD
+﻿# ПОКРАЩЕНА АЛЕБАРДА
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+5 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Дуже Близька; **Шкода:** d10+5 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

@@ -1,7 +1,7 @@
-﻿# IMPROVED HALLOWED AXE
+﻿# ПОКРАЩЕНА ОСВЯЧЕНА СОКИРА
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+4 mag; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d8+4 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

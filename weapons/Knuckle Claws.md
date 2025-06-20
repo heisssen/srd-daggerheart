@@ -1,7 +1,7 @@
-﻿# KNUCKLE CLAWS
+﻿# КАСТЕТ-КІГТІ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d6+8 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d6+8 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Doubled Up:*** When you make an attack with your primary weapon, you can deal damage to another target within Melee range.
+**Особливість:** ***Подвоєння:*** Коли ви атакуєте своєю основною зброєю, ви можете завдати шкоди ще одній цілі в Рукопашному радіусі.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

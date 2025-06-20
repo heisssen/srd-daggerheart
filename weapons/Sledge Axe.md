@@ -1,7 +1,7 @@
-﻿# SLEDGE AXE
+﻿# СОКИРА-КУВАЛДА
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d12+13 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d12+13 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Destructive:*** -1 to Agility; on a successful attack, all adversaries within Very Close range must mark a Stress.
+**Особливість:** ***Руйнівний:*** -1 до Спритності; при успішній атаці всі супротивники в Дуже Близькому радіусі повинні зазначити Стрес.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

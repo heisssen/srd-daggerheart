@@ -1,7 +1,7 @@
-﻿# HAND CANNON
+﻿# РУЧНА ГАРМАТА
 
-**Trait:** Finesse; **Range:** Very Far; **Damage:** d6+12 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Дуже Далека; **Шкода:** d6+12 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Особливість:** ***Перезарядка:*** Після атаки киньте d6. При результаті 1, ви мусите зазначити Стрес, щоб перезарядити цю зброю, перш ніж зможете вистрілити знову.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

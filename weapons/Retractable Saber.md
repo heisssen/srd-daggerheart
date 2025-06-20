@@ -1,7 +1,7 @@
-﻿# RETRACTABLE SABER
+﻿# ВИСУВНА ШАБЛЯ
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d10+7 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Retractable:*** The blade can be hidden in the hilt to avoid detection.
+**Особливість:** ***Висувний:*** Лезо можна сховати в руків'ї, щоб уникнути виявлення.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

@@ -1,7 +1,7 @@
-﻿# LEGENDARY ROUND SHIELD
+﻿# ЛЕГЕНДАРНИЙ КРУГЛИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+6 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d4+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Protective:*** +4 to Armor Score
+**Особливість:** ***Захисний:*** +4 до Показника Броні.
 
-*Secondary Weapon - Tier 4*
+*Допоміжна зброя - Тир 4*

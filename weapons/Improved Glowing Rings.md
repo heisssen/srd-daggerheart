@@ -1,7 +1,7 @@
-﻿# IMPROVED GLOWING RINGS
+﻿# ПОКРАЩЕНІ СЯЮЧІ КІЛЬЦЯ
 
-**Trait:** Agility; **Range:** Very Close; **Damage:** d10+5 mag; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Близька; **Шкода:** d10+5 маг.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

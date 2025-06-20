@@ -1,7 +1,7 @@
-﻿# BLACK POWDER REVOLVER
+﻿# РЕВОЛЬВЕР НА ЧОРНОМУ ПОРОСІ
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+8 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Далека; **Шкода:** d6+8 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Особливість:** ***Перезарядка:*** Після атаки киньте d6. При результаті 1, ви мусите зазначити Стрес, щоб перезарядити цю зброю, перш ніж зможете вистрілити знову.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

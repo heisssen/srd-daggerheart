@@ -1,7 +1,7 @@
-﻿# BLUNDERBUSS
+﻿# БЛАНДЕРБУС
 
-**Trait:** Finesse; **Range:** Close; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Близька; **Шкода:** d8+6 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Reloading:*** After you make an attack, roll a d6. On a result of 1, you must mark a Stress to reload this weapon before you can fire it again.
+**Особливість:** ***Перезарядка:*** Після атаки киньте d6. При результаті 1, ви мусите зазначити Стрес, щоб перезарядити цю зброю, перш ніж зможете вистрілити знову.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

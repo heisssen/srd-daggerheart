@@ -1,7 +1,7 @@
-﻿# IMPROVED ARCANE GAUNTLETS
+﻿# ПОКРАЩЕНІ АРКАННІ РУКАВИЦІ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 mag; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+6 маг.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

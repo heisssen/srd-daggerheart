@@ -1,7 +1,7 @@
-﻿# IMPACT GAUNTLET
+﻿# УДАРНА РУКАВИЦЯ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+11 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+11 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Concussive:*** On a successful attack, you can spend a Hope to knock the target back to Far range.
+**Особливість:** ***Приголомшливий:*** При успішній атаці ви можете витратити Надію, щоб відкинути ціль на Далеку відстань.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

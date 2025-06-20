@@ -1,7 +1,7 @@
-﻿# ROUND SHIELD
+﻿# КРУГЛИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Protective:*** +1 to Armor Score
+**Особливість:** ***Захисний:*** +1 до Показника Броні.
 
-*Secondary Weapon - Tier 1*
+*Допоміжна зброя - Тир 1*

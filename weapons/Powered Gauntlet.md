@@ -1,7 +1,7 @@
-﻿# POWERED GAUNTLET
+﻿# СИЛОВА РУКАВИЦЯ
 
-**Trait:** Knowledge; **Range:** Close; **Damage:** d6+4 phy; **Burden:** One-Handed
+**Характеристика:** Знання; **Дальність:** Близька; **Шкода:** d6+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Charged:*** Mark a Stress to gain a +1 bonus to your Proficiency on a primary weapon attack.
+**Особливість:** ***Заряджений:*** Зазначте Стрес, щоб отримати бонус +1 до вашого Володіння на атаці основною зброєю.
 
-*Secondary Weapon - Tier 3*
+*Допоміжна зброя - Тир 3*

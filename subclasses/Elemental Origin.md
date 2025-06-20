@@ -1,26 +1,26 @@
-﻿# ELEMENTAL ORIGIN
+﻿# СТИХІЙНЕ ПОХОДЖЕННЯ
 
-Play the Elemental Origin if you want to channel raw magic to take the shape of a particular element.
+Обирайте Стихійне Походження, якщо прагнете спрямовувати первісну магію, аби втілитися у певну стихію.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Instinct
+Інстинкт
 
-## FOUNDATION FEATURE
+## ОСОБЛИВІСТЬ ОСНОВИ
 
-***Elementalist:*** Choose one of the following elements at character creation: air, earth, fire, lightning, water.
+***Елементаліст:*** При створенні персонажа оберіть одну з наступних стихій: повітря, земля, вогонь, блискавка, вода.
 
-You can shape this element into harmless effects. Additionally, spend a Hope and describe how your control over this element helps an action roll you’re about to make, then either gain a +2 bonus to the roll or a +3 bonus to the roll’s damage.
+Ви можете надавати цій стихії нешкодливих форм. Крім того, витратьте Надію та опишіть, як ваше володіння цією стихією посилює кидок дії, який ви збираєтеся зробити, а потім або отримайте бонус +2 до кидка, або бонус +3 до шкоди від цього кидка.
 
-## SPECIALIZATION FEATURE
+## ОСОБЛИВІСТЬ СПЕЦІАЛІЗАЦІЇ
 
-***Natural Evasion:*** You can call forth your element to protect you from harm. When an attack roll against you succeeds, you can mark a Stress and describe how you use your element to defend you. When you do, roll a d6 and add its result to your Evasion against the attack.
+***Природне Ухилення:*** Ви можете закликати свою стихію на захист від шкоди. Коли кидок атаки проти вас є успішним, ви можете зазначити Стрес та описати, як ваша стихія вас обороняє. Роблячи це, киньте d6 і додайте його результат до вашого Ухилення проти цієї атаки.
 
-## MASTERY FEATURE
+## ОСОБЛИВІСТЬ МАЙСТЕРНОСТІ
 
-***Transcendence:*** Once per long rest, you can transform into a physical manifestation of your element. When you do, describe your transformation and choose two of the following benefits to gain until your next rest:
+***Трансцендентність:*** Раз на тривалий відпочинок, ви можете перетворитися на живе втілення вашої стихії. Опишіть своє перетворення та оберіть дві з наступних переваг, що діятимуть до вашого наступного відпочинку:
 
-- +4 bonus to your Severe threshold
-- +1 bonus to a character trait of your choice
-- +1 bonus to your Proficiency
-- +2 bonus to your Evasion
+- Бонус +4 до вашого порогу Тяжкої шкоди
+- Бонус +1 до однієї характеристики персонажа на ваш вибір
+- Бонус +1 до вашого Володіння
+- Бонус +2 до вашого Ухилення

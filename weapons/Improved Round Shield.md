@@ -1,7 +1,7 @@
-﻿# IMPROVED ROUND SHIELD
+﻿# ПОКРАЩЕНИЙ КРУГЛИЙ ЩИТ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d4+2 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d4+2 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Protective:*** +2 to Armor Score
+**Особливість:** ***Захисний:*** +2 до Показника Броні.
 
-*Secondary Weapon - Tier 2*
+*Допоміжна зброя - Тир 2*

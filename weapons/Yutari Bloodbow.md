@@ -1,7 +1,7 @@
-﻿# YUTARI BLOODBOW
+﻿# КРИВАВИЙ ЛУК ЮТАРІ
 
-**Trait:** Finesse; **Range:** Far; **Damage:** d6+4 mag; **Burden:** Two-Handed
+**Характеристика:** Вправність; **Дальність:** Далека; **Шкода:** d6+4 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Brutal:*** When you roll the maximum value on a damage die, roll an additional damage die.
+**Особливість:** ***Жорстокий:*** Коли на кубику шкоди випадає максимальне значення, киньте додатковий кубик шкоди.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

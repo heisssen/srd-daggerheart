@@ -1,7 +1,7 @@
-﻿# ADVANCED RAPIER
+﻿# МАЙСТЕРНА РАПІРА
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8+6 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d8+6 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Особливість:** ***Швидка:*** Коли ви робите атаку, ви можете зазначити Стрес, щоб обрати ціллю іншу істоту в межах дальності.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

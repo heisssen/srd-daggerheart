@@ -1,23 +1,23 @@
-﻿# NIGHTWALKER
+﻿# ТІНЕХОДЕЦЬ
 
-Play the Nightwalker if you want to manipulate shadows to maneuver through the environment.
+Обирайте Тінеходця, якщо прагнете маніпулювати тінями, аби непомітно пересуватися оточенням.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Finesse
+Вправність
 
-## FOUNDATION FEATURE
+## ОСОБЛИВІСТЬ ОСНОВИ
 
-***Shadow Stepper:*** You can move from shadow to shadow. When you move into an area of darkness or a shadow cast by another creature or object, you can **mark a Stress** to disappear from where you are and reappear inside another shadow within Far range. When you reappear, you are Cloaked.
+***Тіньовий Крок:*** Ви здатні переміщуватися від однієї тіні до іншої. Коли ви ступаєте в зону темряви або тінь, відкинуту іншою істотою чи об'єктом, ви можете **зазначити Стрес**, щоб миттєво зникнути та з'явитися в іншій тіні в Далекому радіусі. З'явившись, ви стаєте Замаскованим.
 
-## SPECIALIZATION FEATURES
+## ОСОБЛИВОСТІ СПЕЦІАЛІЗАЦІЇ
 
-***Dark Cloud:*** Make a Spellcast Roll (15). On a success, create a temporary dark cloud that covers any area within Close range. Anyone in this cloud can’t see outside of it, and anyone outside of it can’t see in. You’re considered Cloaked from any adversary for whom the cloud blocks line of sight.
+***Темна Хмара:*** Зробіть Кидок Заклинання (15). У разі успіху, створіть тимчасову темну хмару, що покриває будь-яку область у Близькому радіусі. Ніхто всередині цієї хмари не бачить, що зовні, і навпаки. Ви вважаєтеся Замаскованим від будь-якого супротивника, для якого хмара блокує лінію огляду.
 
-***Adrenaline:*** While you’re Vulnerable, add your level to your damage rolls.
+***Адреналін:*** Поки ви Вразливі, додавайте свій рівень до кидків шкоди.
 
-## MASTERY FEATURES
+## ОСОБЛИВОСТІ МАЙСТЕРНОСТІ
 
-***Fleeting Shadow:*** Gain a permanent +1 bonus to your Evasion. You can use your “Shadow Stepper” feature to move within Very Far range.
+***Митка Тінь:*** Отримайте постійний бонус +1 до вашого Ухилення. Ви можете використовувати свою особливість «Тіньовий Крок» для переміщення в Дуже Далекий радіус.
 
-***Vanishing Act:*** Mark a Stress to become Cloaked at any time. When Cloaked from this feature, you automatically clear the Restrained condition if you have it. You remain Cloaked in this way until you roll with Fear or until your next rest.
+***Зникаючий Маневр:*** Зазначте Стрес, щоб миттєво стати Замаскованим. Ставши Замаскованим у такий спосіб, ви автоматично позбуваєтеся стану Знерухомлений, якщо він на вас діяв. Ви залишаєтеся Замаскованим доти, доки не зробите кидок зі Страхом, або до вашого наступного відпочинку.

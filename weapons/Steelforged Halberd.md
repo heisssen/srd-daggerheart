@@ -1,7 +1,7 @@
-﻿# STEELFORGED HALBERD
+﻿# СТАЛЕВА АЛЕБАРДА
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d8+4 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Дуже Близька; **Шкода:** d8+4 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Scary:*** On a successful attack, the target must mark a Stress.
+**Особливість:** ***Лякаючий:*** При успішній атаці ціль мусить зазначити Стрес.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

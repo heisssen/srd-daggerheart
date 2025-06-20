@@ -1,7 +1,7 @@
-﻿# LEGENDARY SCEPTER
+﻿# ЛЕГЕНДАРНИЙ СКІПЕТР
 
-**Trait:** Presence; **Range:** Far; **Damage:** d6+9 mag; **Burden:** Two-Handed
+**Характеристика:** Харизма; **Дальність:** Далека; **Шкода:** d6+9 маг.; **Обтяження:** Дворучна
 
-**Feature:** ***Versatile:*** This weapon can also be used with these statistics—Presence, Melee, d8+6.
+**Особливість:** ***Універсальний:*** Цю зброю також можна використовувати з такими характеристиками — Харизма, Рукопашна, d8+6.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

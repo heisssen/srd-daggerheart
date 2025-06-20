@@ -1,7 +1,7 @@
-﻿# RICOCHET AXES
+﻿# РИКОШЕТНІ СОКИРИ
 
-**Trait:** Agility; **Range:** Far; **Damage:** d6+11 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Далека; **Шкода:** d6+11 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Bouncing:*** Mark 1 or more Stress to hit that many targets in range of the attack.
+**Особливість:** ***Рикошет:*** Зазначте 1 або більше Стресів, щоб вразити стільки ж цілей у межах досяжності атаки.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

@@ -1,7 +1,7 @@
-﻿# IMPROVED LONGBOW
+﻿# ПОКРАЩЕНИЙ ДОВГИЙ ЛУК
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+6 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Далека; **Шкода:** d8+6 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

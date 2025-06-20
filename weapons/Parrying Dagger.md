@@ -1,7 +1,7 @@
-﻿# PARRYING DAGGER
+﻿# КИНДЖАЛ ДЛЯ ПАРУВАННЯ
 
-**Trait:** Finesse; **Range:** Melee; **Damage:** d6+2 phy; **Burden:** One-Handed
+**Характеристика:** Вправність; **Дальність:** Рукопашна; **Шкода:** d6+2 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Parry:*** When you are attacked, roll this weapon’s damage dice. If any of the attacker’s damage dice rolled the same value as your dice, the matching results are discarded from the attacker’s damage dice before the damage you take is totaled.
+**Особливість:** ***Парування:*** Коли вас атакують, киньте кубики шкоди цієї зброї. Якщо на будь-якому з кубиків шкоди нападника випало те саме значення, що й на ваших, відповідні результати відкидаються з кубиків шкоди нападника до підрахунку загальної шкоди.
 
-*Secondary Weapon - Tier 2*
+*Допоміжна зброя - Тир 2*

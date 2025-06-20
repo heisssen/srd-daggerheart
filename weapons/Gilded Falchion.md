@@ -1,7 +1,7 @@
-﻿# GILDED FALCHION
+﻿# ПОЗОЛОЧЕНИЙ ФАЛЬШИОН
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+4 phy; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+4 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Powerful:*** On a successful attack, roll an additional damage die and discard the lowest result.
+**Особливість:** ***Могутній:*** При успішній атаці киньте додатковий кубик шкоди та відкиньте найнижчий результат.
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

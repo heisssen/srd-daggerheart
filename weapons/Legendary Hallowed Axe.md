@@ -1,7 +1,7 @@
-﻿# LEGENDARY HALLOWED AXE
+﻿# ЛЕГЕНДАРНА ОСВЯЧЕНА СОКИРА
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d8+10 mag; **Burden:** One-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d8+10 маг.; **Обтяження:** Одноручна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

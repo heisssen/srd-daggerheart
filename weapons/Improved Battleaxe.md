@@ -1,7 +1,7 @@
-﻿# IMPROVED BATTLEAXE
+﻿# ПОКРАЩЕНА БОЙОВА СОКИРА
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+6 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+6 фіз.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 2*
+*Основна зброя - Тир 2*

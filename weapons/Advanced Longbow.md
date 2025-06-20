@@ -1,7 +1,7 @@
-﻿# ADVANCED LONGBOW
+﻿# МАЙСТЕРНИЙ ДОВГИЙ ЛУК
 
-**Trait:** Agility; **Range:** Very Far; **Damage:** d8+9 phy; **Burden:** Two-Handed
+**Характеристика:** Спритність; **Дальність:** Дуже Далека; **Шкода:** d8+9 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздка:*** -1 до Вправності
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

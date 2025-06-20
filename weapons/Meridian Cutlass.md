@@ -1,7 +1,7 @@
-﻿# MERIDIAN CUTLASS
+﻿# АБОРДАЖНА ШАБЛЯ З МЕРИДІАНУ
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d10+5 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d10+5 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Dueling:*** When there are no other creatures within Close range of the target, gain advantage on your attack roll against them.
+**Особливість:** ***Дуельний:*** Коли в Близькому радіусі від цілі немає інших істот, отримайте перевагу на кидок атаки проти неї.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*

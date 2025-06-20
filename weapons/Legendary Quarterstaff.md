@@ -1,7 +1,7 @@
-﻿# LEGENDARY QUARTERSTAFF
+﻿# ЛЕГЕНДАРНИЙ БОЙОВИЙ ПОСОХ
 
-**Trait:** Instinct; **Range:** Melee; **Damage:** d10+12 phy; **Burden:** Two-Handed
+**Характеристика:** Інстинкт; **Дальність:** Рукопашна; **Шкода:** d10+12 фіз.; **Обтяження:** Дворучна
 
-**Feature:** —
+**Особливість:** —
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

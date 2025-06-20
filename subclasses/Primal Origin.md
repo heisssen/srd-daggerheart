@@ -1,24 +1,24 @@
-﻿# PRIMAL ORIGIN
+﻿# ПЕРВІСНЕ ПОХОДЖЕННЯ
 
-Play the Primal Origin if you want to extend the versatility of your spells in powerful ways.
+Обирайте Первісне Походження, якщо бажаєте значно розширити багатогранність ваших заклинань.
 
-## SPELLCAST TRAIT
+## ХАРАКТЕРИСТИКА ДЛЯ ЗАКЛИНАНЬ
 
-Instinct
+Інстинкт
 
-## FOUNDATION FEATURE
+## ОСОБЛИВІСТЬ ОСНОВИ
 
-***Manipulate Magic:*** Your primal origin allows you to modify the essence of magic itself. After you cast a spell or make an attack using a weapon that deals magic damage, you can mark a Stress to do one of the following:
+***Маніпуляція Магією:*** Ваше первісне походження дозволяє вам змінювати саму сутність магії. Після того, як ви створите заклинання або атакуєте зброєю, що завдає магічної шкоди, ви можете зазначити Стрес, щоб здійснити одну з наступних дій:
 
-- Extend the spell or attack’s reach by one range
-- Gain a +2 bonus to the action roll’s result
-- Double a damage die of your choice
-- Hit an additional target within range
+- Збільшити радіус дії заклинання або атаки на один діапазон
+- Отримати бонус +2 до результату кидка дії
+- Подвоїти обраний вами кубик шкоди
+- Вразити додаткову ціль у межах досяжності
 
-## SPECIALIZATION FEATURE
+## ОСОБЛИВІСТЬ СПЕЦІАЛІЗАЦІЇ
 
-***Enchanted Aid:*** You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a d8 as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice.
+***Зачарована Підтримка:*** Ви можете посилювати магію інших власною сутністю. Допомагаючи Союзнику з Кидком Заклинання, ви можете кинути d8 як свій кубик переваги. Раз на тривалий відпочинок, після того, як союзник зробив Кидок Заклинання з вашою допомогою, ви можете поміняти місцями результати його Дуальних кубиків.
 
-## MASTERY FEATURE
+## ОСОБЛИВІСТЬ МАЙСТЕРНОСТІ
 
-***Arcane Charge:*** You can gather magical energy to enhance your capabilities. When you take magic damage, you become Charged. Alternatively, you can spend 2 Hope to become Charged. When you successfully make an attack that deals magic damage while Charged, you can clear your Charge to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being Charged at your next long rest.
+***Арканний Заряд:*** Ви можете накопичувати магічну енергію для розширення своїх можливостей. Коли ви отримуєте магічну шкоду, ви стаєте Зарядженим. Крім того, ви можете витратити 2 Надії, щоб стати Зарядженим. Успішно атакуючи магічною атакою в Зарядженому стані, ви можете розрядити свій Заряд, щоб або отримати бонус +10 до кидка шкоди, або надати бонус +3 до Складності кидка реакції, який ціль змушена зробити через ваше заклинання. Ви перестаєте бути Зарядженим під час наступного тривалого відпочинку.

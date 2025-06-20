@@ -1,7 +1,7 @@
-﻿# RAPIER
+﻿# РАПІРА
 
-**Trait:** Presence; **Range:** Melee; **Damage:** d8 phy; **Burden:** One-Handed
+**Характеристика:** Харизма; **Дальність:** Рукопашна; **Шкода:** d8 фіз.; **Обтяження:** Одноручна
 
-**Feature:** ***Quick:*** When you make an attack, you can mark a Stress to target another creature within range.
+**Особливість:** ***Швидкий:*** Здійснюючи атаку, ви можете зазначити Стрес, щоб націлитися на ще одну істоту в межах досяжності.
 
-*Primary Weapon - Tier 1*
+*Основна зброя - Тир 1*

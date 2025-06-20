@@ -1,7 +1,7 @@
-﻿# LEGENDARY HALBERD
+﻿# ЛЕГЕНДАРНА АЛЕБАРДА
 
-**Trait:** Strength; **Range:** Very Close; **Damage:** d10+11 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Дуже Близька; **Шкода:** d10+11 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Cumbersome:*** -1 to Finesse
+**Особливість:** ***Громіздкий:*** -1 до Вправності.
 
-*Primary Weapon - Tier 4*
+*Основна зброя - Тир 4*

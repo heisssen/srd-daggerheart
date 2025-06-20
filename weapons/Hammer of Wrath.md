@@ -1,7 +1,7 @@
-﻿# HAMMER OF WRATH
+﻿# МОЛОТ ГНІВУ
 
-**Trait:** Strength; **Range:** Melee; **Damage:** d10+7 phy; **Burden:** Two-Handed
+**Характеристика:** Сила; **Дальність:** Рукопашна; **Шкода:** d10+7 фіз.; **Обтяження:** Дворучна
 
-**Feature:** ***Devastating:*** Before you make an attack roll, you can mark a Stress to use a d20 as your damage die.
+**Особливість:** ***Нищівний:*** Перш ніж зробити кидок атаки, ви можете зазначити Стрес, щоб використати d20 як свій кубик шкоди.
 
-*Primary Weapon - Tier 3*
+*Основна зброя - Тир 3*
